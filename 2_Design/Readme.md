@@ -1,7 +1,15 @@
 # DESIGN:-
 
 
+* Structural Diagram:
 
+
+
+
+![Capture pr](https://user-images.githubusercontent.com/94240954/143013940-509395bd-f944-4e79-9b2d-2690719c0dc1.JPG)
+
+
+* ACTIVITY DIAGRAM:
 
 ![Capture](https://user-images.githubusercontent.com/94240954/142768455-a87c8b1e-0356-4381-a405-d5dfda8e15d7.JPG)
 
