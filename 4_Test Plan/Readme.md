@@ -4,6 +4,6 @@ We gathered all the elements needed for the game to work and created tests to te
 
 
 * The class diagram:
-* 
+
 
 ![Capture pr](https://user-images.githubusercontent.com/94240954/143029638-87a7a005-c8a4-4e15-9937-a1493b1f76c2.JPG)
