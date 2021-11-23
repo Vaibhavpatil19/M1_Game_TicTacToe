@@ -16,6 +16,53 @@ The miniproject is developed in C Programming Language. We will be going over ho
  b. Learn how to structure, Correct use of logic and interface files to keep code maintainable.
 
  c. Practice of Github and Github creating branches for the different features.
+ 
+# Methods
+
+
+* display_board
+
+  Define a method that prints the current board representation based on the @board instance variable.
+
+* input_to_index
+
+  Define a method into which we can pass user input (in the form of a string, e.g., "1", "5", etc.) and have it return to us the corresponding index of the @board array. Remember that, from the player's point of view, the board contains spaces 1-9. But the indices in an array start their count at 0. If the user inputs 5, your method must correctly translate that from the player's perspective to the array's perspective — accounting for the fact that @board[5] is not where the user intended to place their token.
+
+* move
+
+  Your #move method must take in two arguments: the index in the @board array that the player chooses and the player's token (either "X" or "O"). The second argument, the player's token, should default to "X".
+
+* position_taken?
+
+  The position_taken? method will be responsible for evaluating the user's desired move against the Tic Tac Toe board and checking to see whether or not that position is already occupied. Note that this method will be running after #input_to_index, so it will be checking index values. When it is passed the index value for a prospective move, #position_taken? will check to see if that position on the @board is vacant or if it contains an "X" or an "O". If the position is free, the method should return false (i.e., "the position is not taken"); otherwise, it will return true.
+
+* valid_move?
+
+  Build a method valid_move? that accepts a position to check and returns true if the move is valid and false or nil if not. A valid move means that the submitted position is.
+
+* Present on the game board.
+
+  Not already filled with a token.
+
+* turn_count
+
+  This method returns the number of turns that have been played based on the @board variable.
+
+* current_player
+
+  The #current_player method should use the #turn_count method to determine if it is "X"'s or "O"'s turn.
+
+* turn
+
+  Build a method #turn to encapsulate the logic of a single complete turn composed of the following routine.
+
+Ask the user for their move by specifying a position between 1-9.
+Receive the user's input.
+
+1. Translate that input into an index value.
+2. If the move is valid, make the move and display the board.
+3. If the move is invalid, ask for a new move until a valid move is received.
+
 
 # SWOT ANALYSIS:-
 
