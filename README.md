@@ -7,4 +7,10 @@ Note: Strictly adhere to naming convention
 
 * Manual Workflow 
 [![Manual workflow](https://github.com/Vaibhavpatil19/M1_Game_TicTacToe/actions/workflows/manual.yml/badge.svg?branch=main)](https://github.com/Vaibhavpatil19/M1_Game_TicTacToe/actions/workflows/manual.yml)
+
+* Code Inspector
+https://api.codiga.io/project/29974/score/svg
+
+https://api.codiga.io/project/29974/status/svg
+
 # Folder Structure
