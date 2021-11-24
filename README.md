@@ -18,3 +18,4 @@ Note: Strictly adhere to naming convention
 ![quality grade](https://api.codiga.io/project/29974/score/svg)
 
 # Folder Structure
+![Capture 1](https://user-images.githubusercontent.com/94240954/143281623-168bfa9f-5798-488a-a8a4-f555b726b31a.JPG)
