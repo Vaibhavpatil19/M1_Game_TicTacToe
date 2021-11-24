@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  build:https://github.com/Vaibhavpatil19/M1_Game_TicTacToe.git
 
     runs-on: ubuntu-latest
 
