@@ -14,6 +14,7 @@ Note: Strictly adhere to naming convention
    <img src="https://api.codiga.io/public/badge/user/github/Vaibhavpatil19?style=light" alt="codiga badge" />
 </a>
 
-![code quality score](https://app.codiga.io/public/project/29974/M1_Game_TicTacToe/dashboard)
+![code quality score](https://api.codiga.io/project/29974/status/svg)
+![quality grade](https://api.codiga.io/project/29974/score/svg)
 
 # Folder Structure
