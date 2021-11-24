@@ -131,8 +131,7 @@ Higher dimensional variations are possible.
 * High Level Requirements
 
 
-
-![Capture 1](https://user-images.githubusercontent.com/94240954/142771622-e7b47642-9dba-4797-9842-4fa2a0d40459.JPG)
+![Capture2](https://user-images.githubusercontent.com/94240954/143285977-70e1b34d-afe0-42f7-89fe-d1713cb9ee6c.JPG)
 
 
 
@@ -140,8 +139,7 @@ Higher dimensional variations are possible.
 
 
 
-![Capture 3](https://user-images.githubusercontent.com/94240954/142771671-77a75b2a-04aa-4aef-8239-dbc78ba7b6a6.JPG)
-
+![Capture3](https://user-images.githubusercontent.com/94240954/143286071-22426ffd-e7da-4d98-a508-aed37efb7c5d.JPG)
 
 # DESIGN:-
 
