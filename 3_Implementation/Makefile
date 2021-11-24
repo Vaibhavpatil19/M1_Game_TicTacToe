@@ -8,7 +8,7 @@ CXXFLAGS = -std=c11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = myapp
+APPNAME = TicTacToy
 EXT = .c
 SRCDIR = C:\Users\Admin\Desktop\TicToy Project\M1_Game_TicTacToe\3_Implementation
 OBJDIR = obj
